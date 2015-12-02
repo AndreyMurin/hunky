@@ -16,6 +16,8 @@ nbproject
 # composer vendor dir
 /vendor
 
+phpunit.xml
+
 # composer itself is not needed
 composer.phar
 
